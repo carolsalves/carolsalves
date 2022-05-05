@@ -7,7 +7,10 @@ Busco evoluir meu conhecimento técnico pra ser capaz de impementar ideias e aux
 Aqui no GuitHub busco aprender e também contribuir para esse universo lindo que é a τέχνηλογία.
 
 🌼 Hobbies:
-- Música, leitura, artes e esporte.
+- Música (bastante eclética inclusive); 
+- Leitura (amo uma ficção fantástica);
+- Artes (num geral mas arte 3D é minha paixão);
+- Esporte (como espectadora pois atualmente sou sedentária 👀).
 
 <!---
 adevcarol/adevcarol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
