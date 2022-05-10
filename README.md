@@ -1,4 +1,4 @@
-### Olá Mundo! 
+### Welcome!!
 Aqui é a Ana Carolina Alves e @adevcarol aqui no GitHub.
 
 Tecnologia sempre me cativou desde criança, quando tive meu primeiro contado com video games e computadores percebi que tinha muito interesse em utilizar e em saber como eles funcionavam (que pra mim era algum tipo de magia). Tenho formação técnica em Automação Industrial mas desde o término do curso atuei com manutenção eletrônica. Atualmente venho estudando desenvolvimento de software e UI/UX design pois acredito que tenho muito a contribuir na manutenção mas também na criação de novos projetos.
