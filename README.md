@@ -1,6 +1,6 @@
 # Olá, aqui é a Carol 👋 
 
-Estudante de programação e desenvolvimento Web, Mobile e design UX.
+Estudante de programação e desenvolvimento Web, Mobile e UX Design.
 
 ### Linguagens e Ferramentas:
 
