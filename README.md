@@ -16,12 +16,12 @@
   <img align="center" alt="Carol-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Carol-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Carol-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="color: #fff;">
-  <img align="right" alt="Carol-avatar" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/104032202/184544419-9245071a-4cb9-4e9c-a4d6-a6146540fd5d.png"> 
+  <img align="right" alt="Carol-avatar" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/104032202/184544704-68dace7d-bbeb-45c6-acf7-93c2820d359f.png">
 </div>
   
 ##
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://app.slack.com/client/T0NNB6T0R/D03N2M9014N/rimeto_profile/U03N97WD0V9" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:50px;"></a>
   <a href="mailto:alvscarolina@outlook.com"_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius:50px;"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius:50px;"></a>
