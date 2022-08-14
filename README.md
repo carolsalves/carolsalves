@@ -16,7 +16,7 @@
   <img align="center" alt="Carol-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Carol-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Carol-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="color: #fff;">
-  <!-- <img align="right" alt="Carol-avatar" height="150" style="border-radius:50px;" src=""> -->
+  <img align="right" alt="Carol-avatar" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/104032202/184544419-9245071a-4cb9-4e9c-a4d6-a6146540fd5d.png"> 
 </div>
   
 ##
