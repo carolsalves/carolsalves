@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/adevcarol">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adevcarol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevcarol&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adevcarol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevcarol&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ### Linguagens e Ferramentas:
