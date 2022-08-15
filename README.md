@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/adevcarol">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adevcarol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevcarol&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adevcarol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevcarol&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ### Linguagens e Ferramentas:
@@ -16,12 +16,11 @@
   <img align="center" alt="Carol-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Carol-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Carol-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="color: #fff;">
-  <img align="right" alt="Carol-avatar" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/104032202/184544704-68dace7d-bbeb-45c6-acf7-93c2820d359f.png">
 </div>
   
 ##
 
-<div align="left"> 
+<div align="center"> 
   <a href="https://app.slack.com/client/T0NNB6T0R/D03N2M9014N/rimeto_profile/U03N97WD0V9" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:50px;"></a>
   <a href="mailto:alvscarolina@outlook.com"_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius:50px;"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius:50px;"></a>
