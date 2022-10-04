@@ -16,6 +16,7 @@
   <img align="center" alt="Carol-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Carol-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Carol-GitHub" height="35" width="35" src="https://user-images.githubusercontent.com/104032202/185528210-64bc3515-1ccd-4b07-8da6-15ab74e93c61.png" style="color: #fff;">
+  <img align="center" alt="Carol-GitHub" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="color: #fff;">
 </div>
   
 ##
@@ -26,5 +27,3 @@
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius:50px;"></a>
   
 </div>
-
-<!-- ![Snake animation](https://github.com/adevcarol/adevcarol/blob/output/github-contribution-grid-snake.svg) -->
