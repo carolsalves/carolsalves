@@ -5,7 +5,7 @@
 - [x] ```lofi + café + código === 💜 ```
 
 <div align="center">
-<em>"Aquilo que eu ainda não sei é a minha melhor parte. Porque aquilo<br>
+<em>"Aquilo que ainda não sei é a minha melhor parte. Porque aquilo<br>
 que ainda é descolhecido é minha possibilidade de renovação."</em><br>
 Clarice Lispector
 </div><br>
