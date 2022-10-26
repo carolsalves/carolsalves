@@ -5,12 +5,6 @@
 - [x] ```lofi + café + código === 💜 ```
 
 <div align="center">
-<em>"Aquilo que ainda não sei é a minha melhor parte. Porque aquilo<br>
-que ainda é descolhecido é minha possibilidade de renovação."</em><br>
-Clarice Lispector
-</div><br>
-
-<div align="center">
   <a href="https://github.com/adevcarol">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adevcarol&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevcarol&layout=compact&langs_count=7&theme=buefy"/>
