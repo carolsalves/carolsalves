@@ -2,7 +2,14 @@
 
 - [x] Amante de tecnologia e programadora em formação.
 - [x] Já consertei uns video-games por aí, xbox 360 nem se fala...
-- [x] ```lofi + café + código === 💜 ```
+
+<div align="center">
+  
+```js 
+lofi + café + código === 💜 
+```
+  
+</div>
 
 <div align="center">
   <a href="https://github.com/adevcarol">
