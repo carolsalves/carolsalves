@@ -1,6 +1,6 @@
 ### Olá, aqui é a Carol
 
-- [x] Amante de tecnologia e programadora em formação.
+- [x] Amante de tecnologia e eterna estudante de TI 👩‍💻.
 - [x] Já consertei uns video-games por aí, xbox 360 nem se fala...
 
 <div align="center">
@@ -9,12 +9,6 @@
 lofi + café + código === 💜 
 ```
   
-</div>
-
-<div align="center">
-  <a href="https://github.com/adevcarol">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adevcarol&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevcarol&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
 #### Linguagens e Ferramentas:
