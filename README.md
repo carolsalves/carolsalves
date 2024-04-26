@@ -1,6 +1,6 @@
 ### Olá, aqui é a Carol
 
-![carol-status](https://github-readme-stats.vercel.app/api?alvescah={alvescah}&theme=blue-green)
+![carol-status](https://github-readme-stats.vercel.app/api?alvescah={alvescah}&theme=dracula)
 
 ### Linguagens e Ferramentas:
 
