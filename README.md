@@ -5,11 +5,13 @@
 ### Linguagens e Ferramentas:
 
 #### Engenharia de dados:
-| Certifications |
-| -------------- |
-| Azure DP-900   |
-<div align="left">
 
+| Certifications | |
+| -------------- | --- |
+| Azure DP-900   | <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="dp-900 badge" width="50"/> |
+
+<div align="left">
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="apache spark" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="hadoop" width="35"/>
