@@ -1,7 +1,7 @@
 ### Olá, aqui é a Carol
 
-![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvescah&show_icons=true&theme=dark)
-<!-- [![Carol's github stats](https://bad-apple-github-readme.vercel.app/api?username=alvescah&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
+![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvscarol&show_icons=true&theme=dark)
+<!-- [![Carol's github stats](https://bad-apple-github-readme.vercel.app/api?username=alvscarol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
 ### Linguagens e Ferramentas:
 
