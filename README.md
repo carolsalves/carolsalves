@@ -3,10 +3,11 @@
 ![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvscarol&show_icons=true&theme=dark)
 <!-- [![Carol's github stats](https://bad-apple-github-readme.vercel.app/api?username=alvscarol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
-### Skills, Stacks and Tools:
-#### Developer and Maker:
  - Founder at [blobitlabs](https://blobitlabs.com)
  - Judoka 🥋
+   
+### Skills, Stacks and Tools:
+#### Developer and Maker:
 
 <div align="left">
 
@@ -16,6 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="javascript" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30"/>
