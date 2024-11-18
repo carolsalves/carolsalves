@@ -1,11 +1,12 @@
-### Welcome to my Github profile!
+### Welcome to my profile!
+
+- lorem ipsum
 
 ![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvscarol&show_icons=true&theme=dark)
 <!-- [![Carol's github stats](https://bad-apple-github-readme.vercel.app/api?username=alvscarol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
- - Judoka 🥋
-   
 ### Skills, Stacks and Tools:
+
 #### Developer and Maker:
 
 <div align="left">
@@ -42,6 +43,5 @@
 | Certifications | |
 | -------------- | --- |
 | Azure DP-900   | <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="dp-900 badge" width="50"/> |
-
 
 </div>
