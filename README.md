@@ -45,3 +45,5 @@
 | Azure DP-900   | <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="dp-900 badge" width="50"/> |
 
 </div>
+
+![image](https://github.com/user-attachments/assets/95aa483e-de8e-4838-85ca-fe474d1907ae)
