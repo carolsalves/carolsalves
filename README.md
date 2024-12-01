@@ -3,7 +3,7 @@
 ```py
 autoria = "Príncipe, Pequeno"
 def frase_de_vida(pp):
-  return print(f"Só de vê bem com o coração. o essencial é invisível aos olhos... ({pp})")
+  return print(f"Só de vê bem com o coração, o essencial é invisível aos olhos... ({pp})")
 
 frase_de_vida(autoria)
 ```
