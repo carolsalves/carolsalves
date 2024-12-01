@@ -1,8 +1,17 @@
-### Welcome to my profile!
+### Boas vidas ao meu perfil 👋
 
-- lorem ipsum
+- Engenheira de dados e desenvolvedora de software
+- Futebolista e leitora de carteirinha
 
-![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvscarol&show_icons=true&theme=dark)
+```py
+autoria = "Príncipe, Pequeno"
+def frase_de_vida(pp):
+  return print(f"Só de vê bem com o coração. o essencial é invisível aos olhos... ({pp})")
+
+frase_de_vida(autoria)
+```
+![image](https://github.com/user-attachments/assets/95aa483e-de8e-4838-85ca-fe474d1907ae)
+<!--![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvscarol&show_icons=true&theme=dark)
 <!-- [![Carol's github stats](https://bad-apple-github-readme.vercel.app/api?username=alvscarol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
 ### Skills, Stacks and Tools:
@@ -45,5 +54,3 @@
 | Azure DP-900   | <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="dp-900 badge" width="50"/> |
 
 </div>
-
-![image](https://github.com/user-attachments/assets/95aa483e-de8e-4838-85ca-fe474d1907ae)
