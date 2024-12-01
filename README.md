@@ -1,8 +1,5 @@
 ### Boas vidas ao meu perfil 👋
 
-- Engenheira de dados e desenvolvedora de software
-- Futebolista e leitora de carteirinha
-
 ```py
 autoria = "Príncipe, Pequeno"
 def frase_de_vida(pp):
@@ -14,9 +11,9 @@ frase_de_vida(autoria)
 <!--![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvscarol&show_icons=true&theme=dark)
 <!-- [![Carol's github stats](https://bad-apple-github-readme.vercel.app/api?username=alvscarol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
-### Skills, Stacks and Tools:
+### Habilidades e Ferramentas:
 
-#### Developer and Maker:
+#### Desenvolvimento:
 
 <div align="left">
 
@@ -35,7 +32,7 @@ frase_de_vida(autoria)
 
 </div>
 
-#### Data Engeneering:
+#### Engenharia de Dados:
 
 <div align="left">
   
