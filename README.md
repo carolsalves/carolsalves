@@ -1,4 +1,4 @@
-### Wellcome 👋
+### Hi, Welcome to my profile! 👋
 
 <!--
 ```py
