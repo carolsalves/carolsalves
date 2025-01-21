@@ -11,7 +11,7 @@ frase_de_vida(autoria)
 ![image](https://github.com/user-attachments/assets/95aa483e-de8e-4838-85ca-fe474d1907ae)
 -->
 
-![Carol's github stats](https://bad-apple-github-readme.vercel.app/api?username=cahalvs&show_icons=true&count_private=true&line_height=20&icon_color=fff&theme=dark&title_color=fff)
+![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahalvs&show_icons=true&icon_color=fff&theme=dark)
 
 ### Skills e Tools:
 
