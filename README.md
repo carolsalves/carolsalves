@@ -1,15 +1,4 @@
-### Hi, welcome to my profile! 👋
-
-<!--
-```py
-autoria = "Príncipe, Pequeno"
-def frase_de_vida(pp):
-  return print(f"Só de vê bem com o coração, o essencial é invisível aos olhos... ({pp})")
-
-frase_de_vida(autoria)
-```
-![image](https://github.com/user-attachments/assets/95aa483e-de8e-4838-85ca-fe474d1907ae)
--->
+### Boas Vidas ao meu GitHub!
 
 ![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahalvs&show_icons=true&icon_color=fff&theme=dark)
 
