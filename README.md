@@ -2,7 +2,7 @@
 
 ![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahalvs&show_icons=true&icon_color=fff&theme=dark)
 
-### Hbilidades e Ferramentas:
+### Habilidades e Ferramentas:
 
 <div align="left">
   
