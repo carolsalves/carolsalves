@@ -18,7 +18,7 @@
 
 ***
 
-| Badge | ✔️ | ✔️ |
+| Badge | DP | AZ |
 | -------------- | --- | --- |
 | <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="dp-900 badge" width="50"/> | Azure DP-900 | Azure AZ-900
 
