@@ -1,5 +1,3 @@
-### Boas Vidas ao meu GitHub!
-
 ![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsalves&show_icons=true&icon_color=fff&theme=dark)
 
 ### Habilidades e Ferramentas:
